@@ -1,0 +1,2 @@
+This data folder contains data required to reproduce the report
+Note that NONE of the data directly acquired from the UKBB (other than specification of which HLA alleles are present) is available, this is due to data sharing standards associated with data from human participants. Calls obtained as well as other data relevant for the UKBB will be available for registered users. 

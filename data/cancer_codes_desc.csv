@@ -1,0 +1,91 @@
+﻿ICD_code,description,classification
+C00,oral cancer,head_and_neck
+C01,oral cancer,head_and_neck
+C02,oral cancer,head_and_neck
+C03,oral cancer,head_and_neck
+C04,oral cancer,head_and_neck
+C05,oral cancer,head_and_neck
+C06,oral cancer,head_and_neck
+C07,oral cancer,head_and_neck
+C08,oral cancer,head_and_neck
+C09,oral cancer,head_and_neck
+C10,oral cancer,head_and_neck
+C11,oral cancer,head_and_neck
+C12,oral cancer,head_and_neck
+C13,oral cancer,head_and_neck
+C14,head and neck cancer,head_and_neck
+C15,oesophagal cancer,digestive_system
+C16,stomach cancer,digestive_system
+C17,small intestine cancer,digestive_system
+C18,colon cancer,digestive_system
+C19,rectal cancer,digestive_system
+C20,rectal cancer,digestive_system
+C21,rectal cancer,digestive_system
+C22,liver cancer,digestive_system
+C23,gallbladder cancer,digestive_system
+C24,digestive system cancer,digestive_system
+C25,pancreatic cancer,digestive_system
+C26,digestive system cancer,digestive_system
+C30,nasal cancer,respiratory 
+C31,sinus cancer,respiratory 
+C32,larynx cancer,respiratory 
+C33,lung cancer,respiratory 
+C34,lung cancer,respiratory 
+C37,thymic cancer,respiratory 
+C38,heart cancer,respiratory 
+C39,respiratory system cancer,respiratory 
+C40,bone cancer,bone_cartilage
+C41,bone cancer,bone_cartilage
+C42,unclassified,other
+C43,melanoma,skin
+C45,mesothelioma,skin
+C46,kaposi sarcoma,soft_tissue
+C47,cancer of the PNS,soft_tissue
+C48,soft tissue cancer,soft_tissue
+C49,soft tissue cancer,soft_tissue
+C50,breast cancer,female
+C51,vulval cancer,female
+C52,vaginal cancer,female
+C53,cervical cancer,female
+C54,endometrial cancer,female
+C55,uterus cancer,female
+C56,ovarian cancer,female
+C57,female reproductive system cancer,female
+C58,placental cancer,female
+C60,penis cancer,male
+C61,prostate cancer,male
+C62,testicular cancer,male
+C63,male reproductive system cancer,male
+C64,kidney cancer,urinary
+C65,kidney cancer,urinary
+C66,ureteral cancer,urinary
+C67,bladder cancer,urinary
+C68,urinary tract cancer,urinary
+C69,eye cancer,cns
+C70,brain cancer,cns
+C71,brain cancer,cns
+C72,brain cancer,cns
+C73,thyroid cancer,endocrine
+C74,adrenal cancer,endocrine
+C75,endocrine gland cancer,endocrine
+C76,unclassified,unspecified
+C77,unclassified,unspecified
+C78,unclassified,unspecified
+C79,unclassified,unspecified
+C80,unclassified,unspecified
+C81,Hoodgkin lymphoma,lymphatic_hematopoietic
+C82,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C83,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C84,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C85,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C86,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C88,multiple myeloma,lymphatic_hematopoietic
+C90,multiple myeloma,lymphatic_hematopoietic
+C91,leukemia,lymphatic_hematopoietic
+C92,leukemia,lymphatic_hematopoietic
+C93,leukemia,lymphatic_hematopoietic
+C94,leukemia,lymphatic_hematopoietic
+C95,leukemia,lymphatic_hematopoietic
+C96,non-Hodgkin lymphoma,lymphatic_hematopoietic
+C97,unclassified,other
+D05,breast cancer in situ,in_situ_neoplasm
