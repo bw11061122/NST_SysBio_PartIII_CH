@@ -1,4 +1,6 @@
 # python file because jupyter cannot handle the large stuff I am doing 
+# to run: cd Desktop/msc_thesis/project_report/folders_for_git/figure 4
+# python3 reproduce_figure4_MHCII.py
 
 # %%
 
@@ -1008,5 +1010,5 @@ legend = plt.gca().get_legend()
 for lh in legend.legendHandles:
     lh.set_alpha(1)
 
-plt.savefig(f'/Users/barbarawalkowiak/Desktop/msc_thesis/project_report/folders_for_git/figure 4/2b_{param}_for_all_compare_to_ref_set_2k_jitter_mhc2.pdf', bbox_inches='tight')
+plt.savefig(f'/Users/barbarawalkowiak/Desktop/msc_thesis/project_report/folders_for_git/figure 4/4b_{param}_for_all_compare_to_ref_set_2k_jitter_mhc2.pdf', bbox_inches='tight')
 
