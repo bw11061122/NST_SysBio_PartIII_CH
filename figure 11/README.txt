@@ -5,4 +5,9 @@
 
 ##### PACKAGE VERSIONS / SOFTWARE
 
-In this folder, I included all scripts relevant for the analysis 
+In this folder, I included:
+- script required to reproduce figure 11
+- script with functions called in the main script (myfunctions.py)
+- dataset with cancer codes (ICD10) and annotations (cancer_codes_desc.csv)
+- output: figure 11a 
+- output: figure 11b 
