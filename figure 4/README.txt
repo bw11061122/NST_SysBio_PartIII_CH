@@ -3,8 +3,6 @@
 ##### Barbara Walkowiak 
 ##### NST2GN Part III Project 
 
-##### PACKAGE VERSIONS / SOFTWARE
-
 In this folder, I included 
 - script required to reproduce figure 4a (MHC I)
 - script required to reproduce figure 4b (MHC II)
