@@ -5,4 +5,9 @@
 
 ##### PACKAGE VERSIONS / SOFTWARE
 
-In this folder, I included all scripts relevant for the analysis 
+In this folder, I included:
+- script required to reproduce figure 7 
+- script with functions called in the main script (myfunctions.py)
+- coordinates of CH variants screened (ch_variants_coordinates_tp53_added_nts.csv)
+- binding predictions for MHC I (6 files)
+- output: figures (figure 7a + 7b + figures in the format of 7c - 7g for all variants examined)
